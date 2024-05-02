@@ -1,0 +1,31 @@
+{
+  "name": "web3cupang",
+  "version": "2.1.1",
+  "description": "web3cupang project on Layer 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsaldoxyz/web3cupang"
+  },
+  "keywords": [
+    "web3",
+    "crypto",
+    "cupang",
+    "layer3",
+    "etherium",
+    "bitcoin"
+  ],
+  "author": "cupang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsaldoxyz/web3cupang/issues"
+  },
+  "homepage": "https://github.com/itsaldoxyz/web3cupang#readme",
+  "dependencies": {
+    "crypto-encrypt": "^5.1.1",
+    "layercupang": "^2.2.1"
+  }
+}
