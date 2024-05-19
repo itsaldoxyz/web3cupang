@@ -1,6 +1,6 @@
 {
   "name": "web3cupang",
-  "version": "2.1.1",
+  "version": "4.1.1",
   "description": "web3cupang project on Layer 3",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,7 @@
   "homepage": "https://github.com/itsaldoxyz/web3cupang#readme",
   "dependencies": {
     "crypto-encrypt": "^5.1.1",
-    "layercupang": "^2.2.1"
+    "layercupang": "^2.2.1",
+    "teajackpot": "^1.1.4"
   }
 }
